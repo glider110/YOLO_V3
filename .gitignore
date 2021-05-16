@@ -1,0 +1,12 @@
+/VOCdevkit/
+/HomeObstacleDataset/data_1.25/
+/HomeObstacleDataset/20210105/
+/HomeObstacleDataset/composite_picture/
+/HomeObstacleDataset/ImageSets/
+/HomeObstacleDataset/python_paste/
+/img/
+/mAP/input/
+/mAP/input_obs/
+/mAP/output/
+/mAP/output_obs/
+/mAP/results/
